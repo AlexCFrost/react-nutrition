@@ -2,7 +2,7 @@ import { Component } from "react";
 import "./App.css";
 import FoodBox from "./Components/FoodBox";
 import FoodData from "./Components/FoodData";
-import Search from "./components/Search";
+import Search from "./Components/Search";
 
 class App extends Component {
   constructor() {
