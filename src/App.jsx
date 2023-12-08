@@ -1,4 +1,4 @@
-import { Component } from 'react'
+import React,{ Component } from 'react'
 import './App.css'
 import FoodBox from './Components/FoodBox';
 import FoodData from './Components/FoodData'
