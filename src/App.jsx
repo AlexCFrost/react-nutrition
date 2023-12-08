@@ -1,6 +1,6 @@
 import { Component } from 'react'
 import './App.css'
-import FoodBox from './components/FoodBox'
+import FoodBox from './Components/FoodBox';
 import FoodData from './Components/FoodData'
 import Search from './components/Search';
 
